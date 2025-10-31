@@ -27,8 +27,7 @@ A simple **Wordle clone** built with **React**, **TypeScript**, and **Tailwind C
 
 ## ⚙️ Installation
 
-git clone https://github.com/your-username/wordle-ts.git
-cd wordle-ts
-npm install
-npm run dev
-npm run build
+- git clone https://github.com/Tiin0/Wordle.git
+- cd wordle
+- npm install
+- npm run dev
